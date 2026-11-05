@@ -405,4 +405,40 @@ PipeWrench (second regroup, Nov 3). Which ONE do you personally push live-and-bi
 Friday, November 7 — and what do all three add up to in monthly dollars once they're actually
 collecting?
 
+**A:** _(pending — as of the Nov 5 check-in, none of the three is confirmed live-and-billing;
+see Week 17 for where each one stands.)_
+
+### Week 17 — 2026-11-05
+
+**Week in review (Granola + Gmail + calendar):** the first hard revenue number ever to reach
+this log — **LSA Command billing is approaching $7K/month** (stated in the Oct 30 team
+meeting) against the $20K/month target. And the pipeline found a whale: Nathaniel worked the
+HighLevel event Oct 29, got Josh Nelson / Seven Figure Agency engaged through Titan users
+Case Engine and Tree Service Digital, and by Nov 3 **Plumbing & HVAC SEO** — Daniela (LSA
+manager) and Alan (COO), **~70 locations, ~$400K/month in LSA spend** — sat for a demo at
+$200/location, volume pricing to discuss. Daniela was in Slack with an account created by
+Nov 4; the first-client setup call is Friday Nov 6, 2pm, with Ryan + Alex. Josh plans to
+implement in his own agency first; a successful rollout could mean a 7FA community promotion.
+Q13's three gate-sitters as the Nov 7 deadline arrives: TSD — Wes's first client is live and
+"positive," but high/low-value rules are still unconfigured and no additional businesses
+added; PipeWrench — the Nov 3 regroup with Paul happened but the recording has no transcript
+(outcome invisible, not absent), and Paul's white-label agreement was flagged Nov 4 as
+carrying 5–6 unfavorable terms; Case Engine — no go-live news. **None confirmed
+live-and-billing.** The payment-on-file rule got its price tag this week: **64 Leads sat
+quiet 4–5 months, never paid, and cost ~$200 in survey fees** — the team's own conclusion was
+a three-step onboarding with pre-go-live testing. Churn watch: Vincent's message-lead fix
+shipped but utilization is low ("low utilization risks churn," the team's words). Ops
+discipline was genuinely strong: the Commas payment-processor contract was rejected unless
+blank fees, a personal guarantee, and a UCC lien come out; Nathaniel moved to payment on the
+1st; First Promoter will automate affiliate commissions; LSA Command now runs its own Slack
+workspace, mail routing, and calendar (ryan@lsacommand.com). The team also named its own
+constraint out loud: 20 simultaneously interested agencies would exceed onboarding capacity.
+
+**Q14:** Plumbing & HVAC SEO — 70 locations and ~$400K/month in LSA spend — was inside your
+Slack within 24 hours of the demo, and the first-client setup call is Friday at 2pm; at
+$200/location that's $14K/month, double everything you bill today. Before that call: what are
+the pilot's written conversion terms — how many locations convert to paid, at what price, by
+what date — so this becomes a contract-backed rollout instead of another open-ended free
+pilot like TSD's?
+
 **A:** _(pending)_
