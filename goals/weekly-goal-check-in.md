@@ -441,4 +441,40 @@ the pilot's written conversion terms — how many locations convert to paid, at 
 what date — so this becomes a contract-backed rollout instead of another open-ended free
 pilot like TSD's?
 
+**A:** _(not answered directly — and the week answered it by omission: the pilot launched
+Nov 11 with no visible written conversion terms. See Week 18.)_
+
+### Week 18 — 2026-11-12
+
+**Week in review (Granola + calendar):** the whale pilot is live — and unpriced. Plumber
+SEO's first business entered LSA Command Nov 6/7, and on Nov 11 Daniela and Ryan set
+**Savings Plumbing** as the limited pilot (Georgia active, Ontario held; data populated from
+onboarding forward; Daniela broadening high-value rules and adding herself to alerts). But
+"volume pricing to discuss" has hung since the Nov 3 demo, and their leadership is now
+running its own math on how $200/location fits their **$549-per-75-calls** tiered management
+pricing — the conversion decision currently lives on their side of the table. The prize got
+bigger, not smaller: Josh Nelson's community is **~500 agencies at $1,500/month**, and his
+own Plumber SEO shop runs the ~$400K/month across **70 LSA clients with six people doing
+surveys by hand** — the labor LSA Command replaces. Ecosystem effect appeared on cue: Paul
+(the notes now call the client "Pipe Ranch") reacted to Josh's entry as competitive pressure
+to move faster. Tree Service Digital turns out to hold **50–70 LSA clients** of its own, with
+onboarding friction named as the constraint and a near-hands-off pre-go-live setup as the
+fix — last week's own warning (20 interested agencies would exceed capacity) is now colliding
+with two 50–70-client agencies plus a 500-agency community. Strategy call made: **agency-only
+focus**, with OAuth analysis ranking client accounts by missed calls and response delays.
+Case Engine surfaced only as "did they move to Slack?" — still no go-live or billing news,
+and Q13's Nov 7 deadline passed with none of the three gate-sitters confirmed live-and-billing.
+Fort Pierce converged with the software business: White Label Storage runs Google Ads + LSA
+for about a month post-handover, then **LSA Command layers in at $200/month** (couple weeks
+free); media budget $1.5–2.5K/month, CAC ceiling $500/tenant (WLS internal target <$200),
+~$1,200 LTV, occupancy 50–55% → 75% in 4–6 months, go-live Nov 30, first review Jan 1. No new
+billing number surfaced; the ~$7K/month baseline from Oct 30 stands.
+
+**Q15:** Savings Plumbing went live Nov 11, but the volume price has hung in the air since
+the Nov 3 demo while Daniela's leadership runs its own margin math against their
+$549-per-75-calls tiers — whoever names the number first anchors the 70-location deal, worth
+up to $14K/month at rack rate. Before their leadership answers the fit question for you: what
+exact volume price goes in writing to Daniela and Alan for all 70 locations, and what is the
+per-location floor you will not go below?
+
 **A:** _(pending)_
